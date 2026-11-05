@@ -1,0 +1,34 @@
+{
+  "id": "learning-notes",
+  "adapter": "articles",
+  "title": {
+    "vi": "Cách mình học",
+    "en": "Learning in practice",
+    "ja": "学びの工夫",
+    "zh": "学习方法"
+  },
+  "description": {
+    "vi": "Ghi chép, thử nghiệm và những thói quen giúp hiểu sâu hơn.",
+    "en": "Notes, experiments, and habits for deeper understanding.",
+    "ja": "理解を深めるためのノート、実践、習慣。",
+    "zh": "通过记录、实践与习惯加深理解。"
+  },
+  "order": 65,
+  "topic": {
+    "id": "learning",
+    "label": {
+      "vi": "Cách mình học",
+      "en": "Learning in practice",
+      "ja": "学びの工夫",
+      "zh": "学习方法"
+    },
+    "description": {
+      "vi": "Ghi chép, thử nghiệm và những thói quen giúp hiểu sâu hơn.",
+      "en": "Notes, experiments, and habits for deeper understanding.",
+      "ja": "理解を深めるためのノート、実践、習慣。",
+      "zh": "通过记录、实践与习惯加深理解。"
+    },
+    "symbol": "book",
+    "color": "blue"
+  }
+}
